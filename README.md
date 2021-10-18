@@ -2,6 +2,6 @@
 
 This is a sentiment analysis model , implemented on twitter datasets .
 
-Code can be found on-
+Code is available in the SAforTwitter.py file 
 
-https://colab.research.google.com/drive/1_pnM4HKJlIamllDcjxbSlnDbqz7rW3jc
+
